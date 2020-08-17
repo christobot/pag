@@ -1,0 +1,69 @@
+#carousel {
+
+    margin-top: 50px;
+
+}
+
+.carousel {
+    height: 500px;
+    margin-bottom: 60px;
+}
+/* Since positioning the image, we need to help out the caption */
+.carousel-caption {
+    z-index: 10;
+}
+
+/* Declare heights because of positioning of img element */
+.carousel .item {
+    width: 100%;
+    height: 500px;
+   
+}
+.carousel-inner > .item > img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    height: 500px;
+}
+
+@media (min-width: 768px) {
+    .carousel-caption p {
+            margin-bottom: 20px;
+            font-size: 21px;
+            line-height: 1.4;
+    }
+}
+
+#navbar{
+    background: yellow;
+}
+#map-container-google-1{
+    width: 400px;
+    height: 500px;
+    margin: 0px 20px;
+    
+}
+#formulario{
+    position: absolute;
+    width: 600px;
+    height: 250px;
+    left: 40%;
+    background: url(450_1000.jpg);
+    background-size: 600px 250px;
+}
+#cuerpo{
+    background: yellow;
+}
+#texto1{
+    background: #B2FFFF;  
+}
+#texto2{
+    background: #B2FFFF; 
+}
+#texto3{
+    background: #B2FFFF;
+}
+#boton{
+    background: #B2FFFF;
+}
