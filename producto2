@@ -1,1 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2021-04-11T03:52:09.741Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" version="14.5.7" etag="dUI1H64RrS2Zhkyxunho" type="github"><diagram id="07Ds0_vS9nAk2kq5pD06">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-11T07:11:52.685Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="Jx31Dw2QYddTX1iVKino" version="14.5.7" type="github">
+  <diagram id="07Ds0_vS9nAk2kq5pD06" name="Page-1">
+    <mxGraphModel dx="1046" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tynZ3lhWlX2fD5y6etXN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.01;exitY=0.64;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tynZ3lhWlX2fD5y6etXN-1" target="tynZ3lhWlX2fD5y6etXN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tynZ3lhWlX2fD5y6etXN-1" value="área usuaria" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="120" y="110" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tynZ3lhWlX2fD5y6etXN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tynZ3lhWlX2fD5y6etXN-2" target="tynZ3lhWlX2fD5y6etXN-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tynZ3lhWlX2fD5y6etXN-2" value="sistema de&lt;br&gt;procesamiento&lt;br&gt;&amp;nbsp;de pedido" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="300" y="90" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tynZ3lhWlX2fD5y6etXN-5" value="vendedor" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="490" y="115" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
